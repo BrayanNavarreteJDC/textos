@@ -1,3 +1,7 @@
 inicio de la historia
+<<<<<<< HEAD
 
 parte 1 del texto 
+=======
+parte 2 de la historia
+>>>>>>> texto2
